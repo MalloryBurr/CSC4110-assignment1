@@ -13,5 +13,5 @@ int main()
     // prints hello world 
     cout<<"Testing git merge!"; 
       
-    return 0; 
+    return 0;
 } 
