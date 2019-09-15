@@ -1,5 +1,5 @@
 # CSC4110-assignment1
 
-##Mallory Burr
+## Mallory Burr
 
 fz3821
